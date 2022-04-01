@@ -1,0 +1,19 @@
+.btn-blue {
+ 	background-color: #F79BD6;
+ 	color:white;
+ 	padding: 16px
+ 	border-radius:6px;
+ 	margin: 0 auto;
+ 	font-weight: bold;
+ 	display: block;
+ 	width: 25%;
+ 	border: 1px solid #F79BD6;
+ 	transition: 1s;
+ 	text-align: center;
+ }
+
+ .btn-blue:hover {
+ 	background-color: white;
+ 	color: #F79BD6 ;
+ 	transition: 1s;
+ }

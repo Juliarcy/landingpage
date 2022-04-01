@@ -1,0 +1,32 @@
+@import url('banner.css');
+@import url('buttons.css');
+@import url('cards.css');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+body {
+	margin: 0;
+}
+
+a{
+	text-decoration: none;
+}
+
+.container{
+	width: 80%;
+	margin: 0 auto;
+
+}
+
+@import url('footer.css');
+
+.list-inline li {
+display: inline;
+}
+
+.list-inline a{
+	font-size: 48px;
+	color:rgba(0,0,0,0.3);
+}
+
+.list-inline a:hover {
+	color: #DDD700;
+}
